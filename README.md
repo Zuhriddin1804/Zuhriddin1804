@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="33" src="https://camo.githubusercontent.com/de917a162aa26a4ddd1f278c9760981befecc4355bf8e375c02c0e4c362edad9/68747470733a2f2f6d656469612e74656e6f722e636f6d2f496e66625a6e5a6741544941414141692f68616e642d6769662e676966">, I'm Zuhriddin Sotvoldiyev</h1>
+<h1 align="center">Hi <img width="33" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif">, I'm Zuhriddin Sotvoldiyev</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 - 📫 How to reach me: **w.w.w.sotvoldiyevzuhriddin52@gmail.com**
